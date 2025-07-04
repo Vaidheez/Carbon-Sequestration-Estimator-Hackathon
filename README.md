@@ -90,18 +90,3 @@ You'll need Python 3.8+ installed. The project relies on the following key Pytho
 4.  Adjust species coverage parameters if desired.
 5.  Click the "Process" button to initiate the carbon sequestration estimation.
 6.  View the results, including various maps and metrics, and download reports.
-
-## Team
-
-This project was developed by:
-* [Your Name] (Vaidheeswaran C R)
-* [Friend 1's Name]
-* [Friend 2's Name]
-* [Friend 3's Name]
-* [Friend 4's Name]
-
-We are students from VIT-Bangalore.
-
-## License
-
-This project is open-sourced under the MIT License. (You can choose any other open-source license like Apache 2.0, GPLv3, etc., based on your preference.)
